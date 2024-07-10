@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas/Apresentação no formato ppt
+Apresentação para uma palestra no formato ppt.
 
 ## 📒 Descrição
 
